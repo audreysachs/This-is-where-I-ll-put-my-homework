@@ -1,0 +1,6 @@
+def law_of_motion(mass, acceleration): #Force = mass * acceleration 
+    Force = mass * acceleration
+    return Force
+
+force_on_ball = law_of_motion(2, 10)
+print(force_on_ball)

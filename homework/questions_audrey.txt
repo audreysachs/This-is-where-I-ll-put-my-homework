@@ -1,0 +1,14 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+	1. cd: enter or exit a directory
+	2. ls: view contents of directory
+	3. clear: clear terminal
+	My computer terminal is in Bash
+2. Do you have pets? What kind?
+	1. Yes, dog. 
+3. If you run across an error, what would your first course of action be?
+	1. Check syntax, make sure locations and folder names are correct, search online
+4. Funniest thing that happened to you in high school.
+	1. I almost got inducted into a cult in Korea
+5. What is a python script? (Keep it simple)
+	1. files containing python code run in command line that computer recognizes as code
+
