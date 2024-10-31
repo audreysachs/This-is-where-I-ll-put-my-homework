@@ -1,0 +1,33 @@
+x=9
+if ( x > 10 ):
+    print("x is greater than 10")
+elif ( x == 10 ):
+    print("x is equal than 10")
+else:
+    print("x is less than 10")
+
+#while loop
+counter = 10
+while counter > 0:
+    print ('slay')
+    counter -= 1
+
+#for loop
+sum_of_fifty = 0
+
+for i in range(1,51):
+    sum_of_fifty += i # this will add all of the values from 0 to 50 and add them together
+
+print (sum_of_fifty)
+
+#iterative for loop
+
+list_of_names = ['red','blue', 'purple']
+for name in list_of_names: #this makes it represent sub definition in definition 
+    print(len(name)) #len is python thing used to find length of string
+    print(name)
+
+#loops inside loops
+for i in range(2,4):
+    for j in range(9,15): #this double loop ensures that 2 goes from 
+        print((i,j))
